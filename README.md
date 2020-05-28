@@ -3,7 +3,7 @@
 The objective was to stitch three images together. First, keypoints were detected in two images and features were matched between the two. 
 
 <p align="center">
-  <img src="Image stitching/kps_1_2.png">
+  <img src="Image stitching/kps_1__2.png">
 </p>
 <p align="center">
   <img src="Image stitching/features_matched_1n2.png">
