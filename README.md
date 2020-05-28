@@ -1,6 +1,8 @@
 # Image Stitching
 
-The objective was to stitch three images together. First, keypoints were detected in two images and features were matched between the two. 
+The objective was to stitch three images together. 
+
+First, keypoints were detected in two images and features were matched between the two. 
 
 <p align="center">
   <img src="images/kps_1__2.png">
